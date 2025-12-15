@@ -1,0 +1,7 @@
+{
+  "description": "Selfie Attendance Application",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
